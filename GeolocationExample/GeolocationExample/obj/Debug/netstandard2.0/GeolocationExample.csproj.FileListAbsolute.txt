@@ -1,0 +1,14 @@
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\bin\Debug\netstandard2.0\GeolocationExample.deps.json
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\bin\Debug\netstandard2.0\GeolocationExample.dll
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\obj\Debug\netstandard2.0\GeolocationExample.csprojAssemblyReference.cache
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\obj\Debug\netstandard2.0\GeolocationExample.csproj.CoreCompileInputs.cache
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\obj\Debug\netstandard2.0\GeolocationExample.AssemblyInfoInputs.cache
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\obj\Debug\netstandard2.0\GeolocationExample.AssemblyInfo.cs
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\bin\Debug\netstandard2.0\ref\GeolocationExample.dll
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\bin\Debug\netstandard2.0\GeolocationExample.pdb
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\obj\Debug\netstandard2.0\XamlC.stamp
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\obj\Debug\netstandard2.0\GeolocationExample.dll
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\obj\Debug\netstandard2.0\ref\GeolocationExample.dll
+D:\MISGROUP\Project\Xamarin\Example\GeolocationExample\GeolocationExample\GeolocationExample\obj\Debug\netstandard2.0\GeolocationExample.pdb

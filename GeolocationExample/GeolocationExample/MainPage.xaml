@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GeolocationExample.MainPage">
+
+    <StackLayout>
+        
+        <StackLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+                <Label Margin="0,50,0,0" Text="Geolocation" HorizontalOptions="Center" FontAttributes="Bold" FontSize="24"></Label>
+                <Label Margin="0,0,0,10" Text=" Using Xamarin Essentials"></Label>
+                <Label Margin="0,0,0,10" Text="Geolocation" FontAttributes="Bold" FontSize="Large" TextColor="#CA6F1E" HorizontalTextAlignment="Center" ></Label>
+                <Button x:Name="buttonLocation" Text="Get Location" Clicked="ButtonLocation_Clicked"/>
+                <Label HorizontalTextAlignment="Center" x:Name="labelLatitude"></Label>
+                <Label HorizontalTextAlignment="Center" x:Name="labelLongitude"></Label>
+            </StackLayout>
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>
